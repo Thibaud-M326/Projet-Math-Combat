@@ -1,0 +1,15 @@
+C:\Users\Thibaud\Desktop\Project\MathCode\bin\Debug\net6.0\MathCode.exe
+C:\Users\Thibaud\Desktop\Project\MathCode\bin\Debug\net6.0\MathCode.deps.json
+C:\Users\Thibaud\Desktop\Project\MathCode\bin\Debug\net6.0\MathCode.runtimeconfig.json
+C:\Users\Thibaud\Desktop\Project\MathCode\bin\Debug\net6.0\MathCode.dll
+C:\Users\Thibaud\Desktop\Project\MathCode\bin\Debug\net6.0\MathCode.pdb
+C:\Users\Thibaud\Desktop\Project\MathCode\obj\Debug\net6.0\MathCode.csproj.AssemblyReference.cache
+C:\Users\Thibaud\Desktop\Project\MathCode\obj\Debug\net6.0\MathCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thibaud\Desktop\Project\MathCode\obj\Debug\net6.0\MathCode.AssemblyInfoInputs.cache
+C:\Users\Thibaud\Desktop\Project\MathCode\obj\Debug\net6.0\MathCode.AssemblyInfo.cs
+C:\Users\Thibaud\Desktop\Project\MathCode\obj\Debug\net6.0\MathCode.csproj.CoreCompileInputs.cache
+C:\Users\Thibaud\Desktop\Project\MathCode\obj\Debug\net6.0\MathCode.dll
+C:\Users\Thibaud\Desktop\Project\MathCode\obj\Debug\net6.0\refint\MathCode.dll
+C:\Users\Thibaud\Desktop\Project\MathCode\obj\Debug\net6.0\MathCode.pdb
+C:\Users\Thibaud\Desktop\Project\MathCode\obj\Debug\net6.0\MathCode.genruntimeconfig.cache
+C:\Users\Thibaud\Desktop\Project\MathCode\obj\Debug\net6.0\ref\MathCode.dll
