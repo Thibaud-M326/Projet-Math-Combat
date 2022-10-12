@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thibaud\\Desktop\\Project\\MathCode\\MathCode.csproj": {}
+    "C:\\Users\\Thibaud\\Desktop\\Project\\Projet-Math-Combat\\MathCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thibaud\\Desktop\\Project\\MathCode\\MathCode.csproj": {
+    "C:\\Users\\Thibaud\\Desktop\\Project\\Projet-Math-Combat\\MathCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thibaud\\Desktop\\Project\\MathCode\\MathCode.csproj",
+        "projectUniqueName": "C:\\Users\\Thibaud\\Desktop\\Project\\Projet-Math-Combat\\MathCode.csproj",
         "projectName": "MathCode",
-        "projectPath": "C:\\Users\\Thibaud\\Desktop\\Project\\MathCode\\MathCode.csproj",
+        "projectPath": "C:\\Users\\Thibaud\\Desktop\\Project\\Projet-Math-Combat\\MathCode.csproj",
         "packagesPath": "C:\\Users\\Thibaud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thibaud\\Desktop\\Project\\MathCode\\obj\\",
+        "outputPath": "C:\\Users\\Thibaud\\Desktop\\Project\\Projet-Math-Combat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thibaud\\AppData\\Roaming\\NuGet\\NuGet.Config"
